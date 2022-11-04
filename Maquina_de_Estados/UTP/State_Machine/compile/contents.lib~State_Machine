@@ -1,0 +1,23 @@
+11
+~E 1 "../src/adder_nbits.vhd" 6 adder_nbits
+~A 1 "../src/adder_nbits.vhd" 14 artithmetic
+~E 1 "../src/base_time.vhd" 7 base_time
+~A 1 "../src/base_time.vhd" 14 structural
+~E 1 "../src/comp_n_bits.vhd" 5 comp_n_bits
+~A 1 "../src/comp_n_bits.vhd" 13 funtional
+~E 1 "../src/conv_b2d.vhd" 10 conv_b2d
+~A 1 "../src/conv_b2d.vhd" 19 artithmetic
+~E 1 "../src/conv_b2sel.vhd" 4 conv_b2sel
+~A 1 "../src/conv_b2sel.vhd" 11 flow_data
+~E 1 "../src/dec_ctrl_bin2dec7seg.vhd" 6 dec_ctrl_bin2dec7seg
+~A 1 "../src/dec_ctrl_bin2dec7seg.vhd" 17 structural
+~E 1 "../src/decod_bcd2seg7.vhd" 5 decod_bcd2seg7
+~A 1 "../src/decod_bcd2seg7.vhd" 12 funtional
+~E 1 "../src/mux_3_to_1_4b.vhd" 4 mux_3_to_1_4b
+~A 1 "../src/mux_3_to_1_4b.vhd" 12 functional
+~E 1 "../src/reg_nbits.vhd" 6 reg_nbits
+~A 1 "../src/reg_nbits.vhd" 15 funtional
+~E 1 "../src/reg_ser_par_3b.vhd" 5 reg_ser_par_3b
+~A 1 "../src/reg_ser_par_3b.vhd" 14 functional
+~E 1 "../src/starter.vhd" 5 starter
+~A 1 "../src/starter.vhd" 13 functional

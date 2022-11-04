@@ -1,0 +1,74 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work State_Machine -2002  $dsn/src/dec_ctrl_bin2dec7seg.vhd $dsn/src/conv_b2d.vhd $dsn/src/decod_bcd2seg7.vhd $dsn/src/mux_3_to_1_4b.vhd $dsn/src/conv_b2sel.vhd $dsn/src/reg_ser_par_3b.vhd $dsn/src/starter.vhd $dsn/src/reg_nbits.vhd $dsn/src/comp_n_bits.vhd $dsn/src/adder_nbits.vhd $dsn/src/base_time.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/dec_ctrl_bin2dec7seg.vhd
+# Compile Entity "dec_ctrl_bin2dec7seg"
+# Compile Architecture "structural" of Entity "dec_ctrl_bin2dec7seg"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/conv_b2d.vhd
+# Compile Entity "conv_b2d"
+# Compile Architecture "artithmetic" of Entity "conv_b2d"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/decod_bcd2seg7.vhd
+# Compile Entity "decod_bcd2seg7"
+# Compile Architecture "funtional" of Entity "decod_bcd2seg7"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/mux_3_to_1_4b.vhd
+# Compile Entity "mux_3_to_1_4b"
+# Compile Architecture "functional" of Entity "mux_3_to_1_4b"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/conv_b2sel.vhd
+# Compile Entity "conv_b2sel"
+# Compile Architecture "flow_data" of Entity "conv_b2sel"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/reg_ser_par_3b.vhd
+# Compile Entity "reg_ser_par_3b"
+# Compile Architecture "functional" of Entity "reg_ser_par_3b"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/starter.vhd
+# Compile Entity "starter"
+# Compile Architecture "functional" of Entity "starter"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/reg_nbits.vhd
+# Compile Entity "reg_nbits"
+# Compile Architecture "funtional" of Entity "reg_nbits"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/comp_n_bits.vhd
+# Compile Entity "comp_n_bits"
+# Compile Architecture "funtional" of Entity "comp_n_bits"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/adder_nbits.vhd
+# Compile Entity "adder_nbits"
+# Compile Architecture "artithmetic" of Entity "adder_nbits"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/base_time.vhd
+# Compile Entity "base_time"
+# Compile Architecture "structural" of Entity "base_time"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -e 100 -work State_Machine -2002  $dsn/src/dec_ctrl_bin2dec7seg.vhd $dsn/src/conv_b2d.vhd $dsn/src/decod_bcd2seg7.vhd $dsn/src/mux_3_to_1_4b.vhd $dsn/src/conv_b2sel.vhd $dsn/src/reg_ser_par_3b.vhd $dsn/src/starter.vhd $dsn/src/reg_nbits.vhd $dsn/src/comp_n_bits.vhd $dsn/src/adder_nbits.vhd $dsn/src/base_time.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/dec_ctrl_bin2dec7seg.vhd
+# Compile Entity "dec_ctrl_bin2dec7seg"
+# Compile Architecture "structural" of Entity "dec_ctrl_bin2dec7seg"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/conv_b2d.vhd
+# Compile Entity "conv_b2d"
+# Compile Architecture "artithmetic" of Entity "conv_b2d"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/decod_bcd2seg7.vhd
+# Compile Entity "decod_bcd2seg7"
+# Compile Architecture "funtional" of Entity "decod_bcd2seg7"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/mux_3_to_1_4b.vhd
+# Compile Entity "mux_3_to_1_4b"
+# Compile Architecture "functional" of Entity "mux_3_to_1_4b"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/conv_b2sel.vhd
+# Compile Entity "conv_b2sel"
+# Compile Architecture "flow_data" of Entity "conv_b2sel"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/reg_ser_par_3b.vhd
+# Compile Entity "reg_ser_par_3b"
+# Compile Architecture "functional" of Entity "reg_ser_par_3b"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/starter.vhd
+# Compile Entity "starter"
+# Compile Architecture "functional" of Entity "starter"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/reg_nbits.vhd
+# Compile Entity "reg_nbits"
+# Compile Architecture "funtional" of Entity "reg_nbits"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/comp_n_bits.vhd
+# Compile Entity "comp_n_bits"
+# Compile Architecture "funtional" of Entity "comp_n_bits"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/adder_nbits.vhd
+# Compile Entity "adder_nbits"
+# Compile Architecture "artithmetic" of Entity "adder_nbits"
+# File: D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina de Estados v1.1/UTP/State_Machine/src/base_time.vhd
+# Compile Entity "base_time"
+# Compile Architecture "structural" of Entity "base_time"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

@@ -1,0 +1,11 @@
+i<>.\src\base_time.vhd
+i<>.\src\adder_nbits.vhd
+i<>.\src\comp_n_bits.vhd
+i<>.\src\reg_nbits.vhd
+i<>.\src\conv_b2d.vhd
+i<>.\src\conv_b2sel.vhd
+i<>.\src\dec_ctrl_bin2dec7seg.vhd
+i<>.\src\decod_bcd2seg7.vhd
+i<>.\src\mux_3_to_1_4b.vhd
+i<>.\src\reg_ser_par_3b.vhd
+i<>.\src\starter.vhd

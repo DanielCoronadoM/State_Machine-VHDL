@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<design-settings>
+	<plugins>
+		<Aldec.Stimuli.1>
+			<hierarchy activeStimuliSetName="conv_b2d">
+				<stimuliSet name="conv_b2d">
+					<stimulus name="BIN" strength="default" enabled="true" type="value">
+						<stimulus_data>
+							<value value="10010101"/>
+							<radix value="default"/>
+							<cancel_time value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/conv_b2d/BIN"/>
+						</signals>
+					</stimulus>
+					<stimulus name="start" strength="default" enabled="true" type="value">
+						<stimulus_data>
+							<value value="1"/>
+							<radix value="binary"/>
+							<cancel_time value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/conv_b2d/start"/>
+						</signals>
+					</stimulus>
+					<stimulus name="clk" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="2ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/conv_b2d/clk"/>
+						</signals>
+					</stimulus>
+					<stimulus name="ena" strength="default" enabled="true" type="value">
+						<stimulus_data>
+							<value value="1"/>
+							<radix value="binary"/>
+							<cancel_time value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/conv_b2d/ena"/>
+						</signals>
+					</stimulus>
+					<stimulus name="rst" strength="default" enabled="true" type="value">
+						<stimulus_data>
+							<value value="0"/>
+							<radix value="binary"/>
+							<cancel_time value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/conv_b2d/rst"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+			</hierarchy>
+		</Aldec.Stimuli.1>
+	</plugins>
+</design-settings>
