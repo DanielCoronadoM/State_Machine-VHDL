@@ -1,12 +1,12 @@
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/dec_ctrl_bin2dec7seg.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U0_conv_b2d.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U1_mux_3_to_1_4b.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U2_decod_bcd2seg7.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U3_base_time.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U4_reg_ser_par_3b.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U5_conv_b2sel.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/U6_starter.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/reg_nbits.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/comp_n_bits.vhd" VHDL State_Machine 1 0 0 -02
-"C:/Users/Daniel/Desktop/Maquina de Estados v1.1/UTP/State_Machine/src/adder_nbits.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/dec_ctrl_bin2dec7seg.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U0_conv_b2d.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U1_mux_3_to_1_4b.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U2_decod_bcd2seg7.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U4_reg_ser_par_3b.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U5_conv_b2sel.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U6_starter.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U3_base_time.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U3_reg_nbits.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U3_comp_n_bits.vhd" VHDL State_Machine 1 0 0 -02
+"D:/Daniel/Documents/UTP/10mo CUATRIMESTRE/Dispositivos Digitales Programables/Unidad 2/Actividad 3 (Maquina de Estados)/Maquina_de_Estados/UTP/State_Machine/src/U3_adder_nbits.vhd" VHDL State_Machine 1 0 0 -02
 . . 0 0 0

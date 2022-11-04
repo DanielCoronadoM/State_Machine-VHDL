@@ -46,11 +46,11 @@ end component;
 signal aux_1 	 : std_logic_vector(19 downto 0):=x"00001";  --Inicializaci�n en 1 del sumador 
 signal sm, int_s : std_logic_vector (19 downto 0):= (others =>'0');	
 signal as        : std_logic;
---signal nLim      : std_logic_vector (19 downto 0):=x"3d08f";   --249,999  15ms 
+signal nLim      : std_logic_vector (19 downto 0):=x"3d08f";   --249,999  15ms 
 --signal nLim      : std_logic_vector (19 downto 0):=x"493df";   --299,999   
 --signal nLim      : std_logic_vector (19 downto 0):=x"14437";   --82,999
 --signal nLim      : std_logic_vector (19 downto 0):=x"b71af";	--749,999 --tal vez este
-signal nLim      : std_logic_vector (19 downto 0):=x"249f0"; 	--150,000
+--signal nLim      : std_logic_vector (19 downto 0):=x"249f0"; 	--150,000
 --signal nLim      : std_logic_vector (19 downto 0):=x"c34ff";	--799,999
 --signal nLim      : std_logic_vector (19 downto 0):=x"41103";	--266,499
 --signal nLim      : std_logic_vector (19 downto 0):=x"00032";	  --50 en Decimal para simulaci�n
